@@ -7,6 +7,8 @@ public class testcase1 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("This is testCase 1");
+		
+		System.out.println("New chnages");
 
 	}
 
